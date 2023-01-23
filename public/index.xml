@@ -16,21 +16,21 @@
     </item>
     
     <item>
+      <title>About This Hack</title>
+      <link>https://0xcube.ga/projects/about_this_hack/</link>
+      <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
+      
+      <guid>https://0xcube.ga/projects/about_this_hack/</guid>
+      <description>Test Hello does this work?</description>
+    </item>
+    
+    <item>
       <title>Hello</title>
       <link>https://0xcube.ga/posts/hello/</link>
       <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
       
       <guid>https://0xcube.ga/posts/hello/</guid>
       <description>oh hi</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://0xcube.ga/projects/about_this_hack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0xcube.ga/projects/about_this_hack/</guid>
-      <description></description>
     </item>
     
   </channel>
