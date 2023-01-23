@@ -21,6 +21,10 @@ params:
   defaultTheme: auto
   profileMode:
     enabled: true
+    imageUrl: "/img/logo.png" # optional
+    imageTitle: "Logo" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
     title: 0xCUBE
     subtitle: High-School Sophomore | Swift & Python Specialist | Aspiring Computer Science & Finance Major
   socialIcons:
