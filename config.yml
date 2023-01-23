@@ -1,0 +1,57 @@
+title: 0xCUBE
+theme: PaperMod
+baseURL: https://0xcube.ga
+
+markup: 
+  goldmark: 
+    renderer:
+      unsafe: true
+
+assets:
+  - disableHLJS: true
+
+params:
+  description: Front-end Developer | High School Sophomore | Aspiring Computer Science & Finance Major
+  keywords:
+    - 0xCUBE
+    - Developer
+    - About
+    - Projects
+  env: production
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    title: 0xCUBE
+    subtitle: High-School Sophomore | Swift & Python Specialist | Aspiring Computer Science & Finance Major
+  socialIcons:
+    - name: github
+      url: https://github.com/0xCUB3
+    - name: discord
+      url:
+    - name: reddit
+      url: https://reddit.com/u/0xCUBE
+    - name: youtube
+      url: https://www.youtube.com/@0xCUBE
+    - name: instagram
+      url: https://instagram.com/0xCUB3
+    - name: twitter
+      url: https://twitter.com/0xCU8E
+
+menu:
+  main:
+    - identifier: Home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: About
+      name: About
+      url: /about
+      weight: 20
+    - identifier: Projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    - identifier: Blog
+      name: Blog
+      url: /posts/
+      weight: 40

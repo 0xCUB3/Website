@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>0xCUBE</title>
+    <link>https://0xCUB3githubio.0xcub3.repl.co/</link>
+    <description>Recent content on 0xCUBE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Dec 2021 22:50:26 +0000</lastBuildDate><atom:link href="https://0xCUB3githubio.0xcub3.repl.co/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://0xCUB3githubio.0xcub3.repl.co/about/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xCUB3githubio.0xcub3.repl.co/about/</guid>
+      <description>Hello, there! People know me as 0xCUBE on the Internet. I am a student and aspiring software developer and finance major. I am a first-generation American in Connecticut who mainly works with Swift &amp;amp; Python, but I am always eager to learn new languages and technologies as they emerge. I take particular interest in AI and hope to develop projects and workflows surrounding new AI technology as I gain experience.</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://0xCUB3githubio.0xcub3.repl.co/posts/hello/</link>
+      <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
+      
+      <guid>https://0xCUB3githubio.0xcub3.repl.co/posts/hello/</guid>
+      <description>oh hi</description>
+    </item>
+    
+  </channel>
+</rss>
