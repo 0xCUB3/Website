@@ -21,12 +21,17 @@ params:
   defaultTheme: auto
   profileMode:
     enabled: true
-    imageUrl: "/img/logo.png" # optional
-    imageTitle: "Logo" # optional
+    imageUrl: "/android-chrome-192x192.png"
+    imageTitle: "Logo"
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     title: 0xCUBE
     subtitle: High-School Sophomore | Swift & Python Specialist | Aspiring Computer Science & Finance Major
+    buttons:
+      - name: About Me
+        url: "/about"
+      - name: Blog
+        url: "/posts"
   socialIcons:
     - name: github
       url: https://github.com/0xCUB3
