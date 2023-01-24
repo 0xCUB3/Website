@@ -13,6 +13,10 @@ assets:
 params:
   author: 0xCUBE
   ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  
   description: Front-end Developer | High School Sophomore | Aspiring Computer Science & Finance Major
   keywords:
     - 0xCUBE
@@ -47,6 +51,7 @@ params:
       url: https://instagram.com/0xCUB3
     - name: twitter
       url: https://twitter.com/0xCU8E
+  googleAnalytics: G-H8MGTH36L7
 
 menu:
   main:

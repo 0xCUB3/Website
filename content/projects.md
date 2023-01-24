@@ -17,6 +17,7 @@ The following are a few of my coding projects that I have been working on over t
 **Skills:** Front-end Development, GUI Development, Shell Scripting
 
 {{< github-repo user="0xCUB3" repo="About-This-Hack" >}}
+<hr />
 
 ## Bettercamp
 
@@ -27,6 +28,7 @@ The following are a few of my coding projects that I have been working on over t
 **Skills:** Darwin Terminal, Bash Scripting
 
 {{< github-repo user="0xCUB3" repo="BetterCamp-macOS" >}}
+<hr />
 
 ## Personal Website (this!)
 

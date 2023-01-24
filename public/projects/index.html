@@ -117,7 +117,10 @@
 </script>
 </head>
 
-<body class="" id="top">
+<body class="" id="top"><head>
+  
+  
+</head>
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -189,7 +192,7 @@
 
 <article class="post-single">
   <header class="post-header">
-    
+    <div class="breadcrumbs"><a href="https://0xCUBE.ga">Home</a></div>
     <h1 class="post-title">
       Projects
     </h1>
@@ -224,6 +227,7 @@
 
 <p><a href="https://github.com/0xCUB3/About-This-Hack"><img src="https://gh-card.dev/repos/0xCUB3/About-This-Hack.svg" style="max-width: 100%;" /></a></p>
 
+<hr />
 <h2 id="bettercamp">Bettercamp<a hidden class="anchor" aria-hidden="true" href="#bettercamp">#</a></h2>
 <p><strong>Description:</strong> This project is the macOS portion of the BetterCamp application, which provides a more versatile alternative to macOS&rsquo;s BootCamp Assistant. <em>It is not currently functional, so please do not use it unless you want to contribute!</em></p>
 <p><strong>Stacks:</strong> Bash</p>
@@ -232,6 +236,7 @@
 
 <p><a href="https://github.com/0xCUB3/BetterCamp-macOS"><img src="https://gh-card.dev/repos/0xCUB3/BetterCamp-macOS.svg" style="max-width: 100%;" /></a></p>
 
+<hr />
 <h2 id="personal-website-this">Personal Website (this!)<a hidden class="anchor" aria-hidden="true" href="#personal-website-this">#</a></h2>
 <p><strong>Description:</strong> This project is my portfolio website and blog, as you can probably tell by now!</p>
 <p><strong>Stacks:</strong> HTML, Markdown, CSS, JavaScript</p>
@@ -247,6 +252,7 @@
   <footer class="post-footer">
     <ul class="post-tags">
     </ul>
+
 
 <div class="share-buttons">
     <a target="_blank" rel="noopener noreferrer" aria-label="share Projects on twitter"
@@ -362,6 +368,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script></body>
 
 </html>
