@@ -54,6 +54,7 @@ params:
   analytics: 
     google:
       SiteVerificationTag: G-H8MGTH36L7
+  googleAnalytics: G-H8MGTH36L7
 
 menu:
   main:
