@@ -12,7 +12,6 @@ assets:
 
 params:
   author: 0xCUBE
-  comments: true
   ShowShareButtons: true
   description: Front-end Developer | High School Sophomore | Aspiring Computer Science & Finance Major
   keywords:

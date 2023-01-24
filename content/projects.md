@@ -4,7 +4,6 @@ layout: "single"
 summary: "My Projects"
 showtoc: true
 showReadingTime: false
-noComment: true
 ---
 
 The following are a few of my coding projects that I have been working on over time.
