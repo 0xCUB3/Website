@@ -11,7 +11,9 @@ assets:
   - disableHLJS: true
 
 params:
+  author: 0xCUBE
   comments: true
+  ShowShareButtons: true
   description: Front-end Developer | High School Sophomore | Aspiring Computer Science & Finance Major
   keywords:
     - 0xCUBE
@@ -59,7 +61,7 @@ menu:
       weight: 20
     - identifier: Projects
       name: Projects
-      url: /projects/
+      url: /projects
       weight: 30
     - identifier: Blog
       name: Blog
@@ -67,5 +69,5 @@ menu:
       weight: 40
     - identifier: Archive
       name: Archive
-      url: /archive
+      url: /archive/
       weight: 50
