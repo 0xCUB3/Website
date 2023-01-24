@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 0xCUBE</title>
-    <link>https://0xCUB3githubio.0xcub3.repl.co/posts/</link>
+    <link>https://0xCUBE.ga/posts/</link>
     <description>Recent content in Posts on 0xCUBE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 22:50:26 +0000</lastBuildDate><atom:link href="https://0xCUB3githubio.0xcub3.repl.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 22:50:26 +0000</lastBuildDate><atom:link href="https://0xCUBE.ga/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://0xCUB3githubio.0xcub3.repl.co/posts/hello/</link>
+      <link>https://0xCUBE.ga/posts/hello/</link>
       <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
       
-      <guid>https://0xCUB3githubio.0xcub3.repl.co/posts/hello/</guid>
+      <guid>https://0xCUBE.ga/posts/hello/</guid>
       <description>oh hi</description>
     </item>
     

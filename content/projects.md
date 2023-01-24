@@ -28,3 +28,13 @@ The following are a few of my coding projects that I have been working on over t
 **Skills:** Darwin Terminal, Bash Scripting
 
 {{< github-repo user="0xCUB3" repo="BetterCamp-macOS" >}}
+
+## Personal Website (this!)
+
+**Description:** This project is my portfolio website and blog, as you can probably tell by now!
+
+**Stacks:** HTML, Markdown, CSS, JavaScript
+
+**Skills:** Frontend Development, Netlify Hosting
+
+{{< github-repo user="0xCUB3" repo="Website" >}}
