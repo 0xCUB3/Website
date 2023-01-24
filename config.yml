@@ -1,6 +1,6 @@
 title: 0xCUBE
 theme: hugo-PaperMod
-baseURL: https://0xcube.ga
+baseURL: https://0xCUBE.ga
 
 markup: 
   goldmark: 
@@ -65,3 +65,7 @@ menu:
       name: Blog
       url: /posts/
       weight: 40
+    - identifier: Archive
+      name: Archive
+      url: /archive
+      weight: 50

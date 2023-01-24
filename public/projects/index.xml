@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on 0xCUBE</title>
-    <link>https://0xcube.ga/projects/</link>
+    <link>https://0xCUB3githubio.0xcub3.repl.co/projects/</link>
     <description>Recent content in Projects on 0xCUBE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xcube.ga/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xCUB3githubio.0xcub3.repl.co/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About This Hack</title>
-      <link>https://0xcube.ga/projects/about_this_hack/</link>
+      <link>https://0xCUB3githubio.0xcub3.repl.co/projects/about_this_hack/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://0xcube.ga/projects/about_this_hack/</guid>
+      <guid>https://0xCUB3githubio.0xcub3.repl.co/projects/about_this_hack/</guid>
       <description>A supercharged system information app for macOS</description>
     </item>
     

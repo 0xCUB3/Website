@@ -2,26 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://0xcube.ga/about/</loc>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/about/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0xcube.ga/</loc>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0xcube.ga/projects/about_this_hack/</loc>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/projects/about_this_hack/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0xcube.ga/projects/</loc>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/projects/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0xcube.ga/posts/hello/</loc>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/posts/hello/</loc>
     <lastmod>2021-12-01T22:50:26+00:00</lastmod>
   </url><url>
-    <loc>https://0xcube.ga/posts/</loc>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/posts/</loc>
     <lastmod>2021-12-01T22:50:26+00:00</lastmod>
   </url><url>
-    <loc>https://0xcube.ga/categories/</loc>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/archives/</loc>
   </url><url>
-    <loc>https://0xcube.ga/tags/</loc>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/categories/</loc>
+  </url><url>
+    <loc>https://0xCUB3githubio.0xcub3.repl.co/tags/</loc>
   </url>
 </urlset>
