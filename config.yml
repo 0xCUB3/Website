@@ -51,7 +51,9 @@ params:
       url: https://instagram.com/0xCUB3
     - name: twitter
       url: https://twitter.com/0xCU8E
-  googleAnalytics: G-H8MGTH36L7
+  analytics: 
+    google:
+      SiteVerificationTag: G-H8MGTH36L7
 
 menu:
   main:
