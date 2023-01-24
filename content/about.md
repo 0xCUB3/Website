@@ -1,6 +1,5 @@
 --- 
 title: About
-layout: single
 showReadingTime: true
 modified: 2023-01-23
 ---

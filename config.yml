@@ -11,6 +11,7 @@ assets:
   - disableHLJS: true
 
 params:
+  comments: true
   description: Front-end Developer | High School Sophomore | Aspiring Computer Science & Finance Major
   keywords:
     - 0xCUBE
