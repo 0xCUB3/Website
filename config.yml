@@ -1,6 +1,6 @@
 title: 0xCUBE
 theme: hugo-PaperMod
-baseURL: https://0xCUBE.ga
+baseURL: https://0xCUBE.netlify.app
 
 markup: 
   goldmark: 
