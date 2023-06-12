@@ -190,4 +190,28 @@
         <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.7.1/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
       </item>
   </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.8.0</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.8.0</link>
+        <sparkle:version>0.8.0</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              Happy June! Major updates from the previous release that you don't want to miss! Changelog:
+                <li>HardwareCollector.swift now determines what Mac you have much more efficiently, cutting down 300 lines of code! 😯</li>
+                <li>macOS 14 Sonoma is now fully-supported, including a new icon 🎉</li>
+                <li>A cool attribution line now appears at the bottom of the main tab 🍇</li>
+                <li>"Apple UEFI" now shows up as the bootloader when not using OpenCore/Clover 🍀</li>
+                <li>Other minor bug fixes and improvements that aren't important enough to mention 🤪</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Monday June 12th, 2023</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.8.0/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
 </rss>
