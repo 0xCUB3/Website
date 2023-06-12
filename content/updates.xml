@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.3.0</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.3.0</link>
+        <sparkle:version>0.3.0</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Supports all new M1 Pro/Max/Ultra devices</li>
+              <li>Implements native update support (so downloading every new release is no longer necessary)</li>
+              <li>Adds support to 10.11-15, stretching all the way back to OS X El Capitan!</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Wednesday June 22nd, 2022</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.3.0/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.3.1</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.3.1</link>
+        <sparkle:version>0.3.1</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Adds preliminary Ventura icon to the main page before Apple makes one themselves</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Friday June 24th, 2022</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.3.1/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.3.2</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.3.2</link>
+        <sparkle:version>0.3.2</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Triple monitor support added</li>
+              <li>Support for Sidecar iPad displays added</li>
+              <li>Added the ability to toggle the visibility of the serial number for security</li>
+              <li>Inverted the remaining storage bar</li>
+              <li>Added a message in the Support tab</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Saturday June 25th, 2022</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.3.2/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.3.3</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.3.3</link>
+        <sparkle:version>0.3.3</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixes OS detection on newer Ventura betas</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Tuesday July 12th, 2022</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.3.3/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.4.0</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.4.0</link>
+        <sparkle:version>0.4.0</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Implement async functions for collecting data, cutting launch time in half (or more!)</li>
+              <li>Better Stability</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Tuesday August 2nd, 2022</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.4.0/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.5.0</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.5.0</link>
+        <sparkle:version>0.5.0</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>New Big-Sur-style icon!!!</li>
+              <li>Add RAM speed and type (i.e. DDR3, DDR4, etc.)</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Wednesday August 17th, 2022</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.5.0/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.6.0</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.6.0</link>
+        <sparkle:version>0.6.0</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              Happy New Year! We have some exciting changes that should hopefully fix all crashing problems!\n
+              Changelog:
+              <li>Crashing resolved due to out of bounds error</li>
+              <li>Async replaced in favor of a more backwards-compatible and lighter-weight option</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Monday January 16th, 2023</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.6.0/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.7.0</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.7.0</link>
+        <sparkle:version>0.7.0</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              Wow, I can't believe it's almost spring! And with spring comes a new release of About This Hack! Enjoy :)\n
+              Changelog:
+              <li>Added Clover Bootloader Support</li>
+              <li>Added Button on Main Screen for System Report</li>
+              <li>Added Button on Main Screen for Software Updates</li>
+              <li>Added support for the new Mac Mini and MacBook Pro 14 and 16 inch models</li>
+              <li>Substantially Cut Down the Size of the App (You're Welcome)</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Thursday March 2nd, 2023</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.7.0/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.7.1</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.7.1</link>
+        <sparkle:version>0.7.1</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              Hey everyone, quick adjustment from 0.7.0. Changelog:
+              <li>Added ES, FR, RO (Spanish, French, Romanian) localizations</li>
+              <li>Fixed small UI bugs</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Wednesday March 8th, 2023</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.7.1/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
+</rss>
