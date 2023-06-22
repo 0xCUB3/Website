@@ -214,4 +214,24 @@
         <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.8.0/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
       </item>
   </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.8.1</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.8.1</link>
+        <sparkle:version>0.8.1</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              Minor bug fix release... Changelog:
+                <li>Fixed the minimum required version of macOS to 10.12 (previously set incorrectly to 10.14.6)</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Thursday June 22nd, 2023</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.8.1/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
 </rss>
