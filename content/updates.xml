@@ -256,7 +256,7 @@
           ]]>
         </description>
         <pubDate>Friday July 21st, 2023</pubDate>
-        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.9.0/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.9.0/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
       </item>
   </channel>
 </rss>
