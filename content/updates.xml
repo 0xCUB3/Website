@@ -234,4 +234,29 @@
         <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.8.1/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
       </item>
   </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.9.0</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.9.0</link>
+        <sparkle:version>0.9.0</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              The final major release before stable...maybe...👀 Changelog:
+                <li>🎉CUT LAUNCH TIME IN HALF 🎉</li>
+                <li>Added Dual-GPU Support</li>
+                <li>Cleaned Up the Code</li>
+                <li>Temporarily Removed Localizations to Improve Performance</li>
+                <li>Changed How Commands are Handled</li>
+                <li>Added Model Identifier</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Friday July 21st, 2023</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.9.0/About.This.Hack.app.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
 </rss>
