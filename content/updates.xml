@@ -259,4 +259,27 @@
         <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.9.0/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
       </item>
   </channel>
+  <channel>
+    <title>About This Hack Changelog</title>
+    <description>Most recent changes in the latest update.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.9.1</title>
+        <link>https://github.com/0xCUB3/About-This-Hack/releases/tag/0.9.1</link>
+        <sparkle:version>0.9.1</sparkle:version>
+        <description>
+          <![CDATA[
+            <ul>
+              Just some quick tweaks and bug fixes! Changelog:
+                <li>🎉CUT LAUNCH TIME IN HALF 🎉</li>
+                <li>Fixed some formatting issues with dual-GPUs</li>
+                <li>The "Bootloader" category now shows "Apple iBoot" for Apple Silicon Macs</li>
+                <li>Resolved a bunch of pesky errors</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Friday July 28th, 2023</pubDate>
+        <enclosure url="https://github.com/0xCUB3/About-This-Hack/releases/download/0.9.1/About.This.Hack.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
+      </item>
+  </channel>
 </rss>
