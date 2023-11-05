@@ -17,7 +17,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   
-  description: Front-end Developer | High School Sophomore | Aspiring Computer Science & Finance Major
+  description: High School Junior | Aspiring Mathematics Major
   keywords:
     - 0xCUBE
     - Developer
@@ -32,7 +32,7 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     title: 0xCUBE
-    subtitle: High-School Sophomore | Swift & Python Specialist | Aspiring Computer Science & Finance Major
+    subtitle: High School Junior | Swift & Python Specialist | Aspiring Mathematics Major
     buttons:
       - name: About Me
         url: "/about"
