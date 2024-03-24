@@ -32,7 +32,7 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     title: 0xCUBE
-    subtitle: High School Junior | Swift & Python Specialist | Aspiring Mathematics Major
+    subtitle: Mathematics Enthusiast
     buttons:
       - name: About Me
         url: "/about"
