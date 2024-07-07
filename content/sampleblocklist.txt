@@ -1,1 +1,9 @@
-!||google.com^
+! ||data.debugbear.com^
+! ||js.cdn.applicationinsights.io^
+! ||eastus-*.applicationinsights.azure.com^
+! ||admob-app-id-*.firebaseio.com^
+! ||api.loganalytics.io^
+! ||apptrace.com^
+! ||bugherd.com^$third-party
+! ||bugly.qcloud.com^
+! ||signalfx.com^
