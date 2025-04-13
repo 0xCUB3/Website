@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "RedditFilter",
-      "bundleIdentifier": "com.level3tjg.redditfilter",
+      "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "level3tjg",
       "version": "2025.07.1-1.1.7",
       "versionDate": "2025-02-27T14:16:51Z",
@@ -25,9 +25,9 @@
   "news": [
     {
       "title": "RedditFilter Source Updated",
-      "identifier": "update-com.unofficial.level3tjg.redditfilter.repo-2025-04-13T13:59:46.980360Z",
+      "identifier": "update-com.unofficial.level3tjg.redditfilter.repo-2025-04-13T14:02:43.488953Z",
       "caption": "Repo refreshed. Latest version: 2025.07.1-1.1.7",
-      "date": "2025-04-13T13:59:46.980360Z",
+      "date": "2025-04-13T14:02:43.488953Z",
       "tintColor": "ff4500",
       "notify": false
     }
