@@ -1,1 +1,37 @@
-
+{
+    "name": "RedditFilter Repo (Unofficial)",
+    "identifier": "com.unofficial.level3tjg.redditfilter.repo",
+    "sourceURL": "https://raw.githubusercontent.com/0xCUB3/Website/refs/heads/main/content/redditfilter_repo.json",
+    "apps": [
+        {
+            "name": "RedditFilter",
+            "bundleIdentifier": "com.level3tjg.redditfilter",
+            "developerName": "level3tjg",
+            "version": "2025.07.1-1.1.7",
+            "versionDate": "2025-02-27T14:16:51Z",
+            "versionDescription": "# RedditFilter v2025.07.1-1.1.7\r\n\r\n## Changes\r\n\r\n- Fixed feed filter settings not appearing in app settings\r\n- Fixed missing feed filter settings icon\r\n- Fixed some recommendations still showing up in the home feed",
+            "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.07.1-1.1.7/RedditFilter_2025.07.1-1.1.7.ipa",
+            "localizedDescription": "iOS App to customize and filter the Reddit Official App experience. Requires the official Reddit app to be installed.",
+            "iconURL": "https://raw.githubusercontent.com/level3tjg/RedditFilter/main/RedditFilter/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png",
+            "tintColor": "FF4500",
+            "size": 139065345,
+            "beta": false,
+            "permissions": [
+                {
+                    "type": "network",
+                    "usageDescription": "RedditFilter needs network access to potentially fetch filter lists or check for updates (if implemented)."
+                }
+            ],
+            "screenshotURLs": []
+        }
+    ],
+    "news": [
+        {
+            "title": "Source Initialized",
+            "identifier": "initial-news",
+            "caption": "Successfully added the RedditFilter Repo (Unofficial) source.",
+            "date": "2025-04-13T13:49:20.170679Z"
+        }
+    ],
+    "userInfo": {}
+}
