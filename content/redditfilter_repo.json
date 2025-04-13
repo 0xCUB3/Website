@@ -8,23 +8,26 @@
       "developerName": "level3tjg",
       "version": "2025.07.1-1.1.7",
       "versionDate": "2025-02-27T14:16:51Z",
-      "versionDescription": "# RedditFilter v2025.07.1-1.1.7\r\n\r\n## Changes\r\n\r\n- Fixed feed filter settings not appearing in app settings\r\n- Fixed missing feed filter settings icon\r\n- Fixed some recommendations still showing up in the home feed",
+      "versionDescription": "## Version v2025.07.1-1.1.7\n\n# RedditFilter v2025.07.1-1.1.7\r\n\r\n## Changes\r\n\r\n- Fixed feed filter settings not appearing in app settings\r\n- Fixed missing feed filter settings icon\r\n- Fixed some recommendations still showing up in the home feed\n\n---\n\n## Version v2024.44.2-1.1.6\n\n# RedditFilter v2024.44.2-1.1.6\r\n\r\n## Changes\r\n\r\n- Fixed \"Incorrect username or password\" error when logging in with correct username and password\n\n---\n\n## Version v2024.26.0-1.1.6\n\n# RedditFilter v2024.26.0-1.1.6\r\n\r\n## Changes\r\n\r\n- Fixed a crash occurring during some web requests\r\n- Fixed NSFW icon not appearing in feed filter settings\n\n---\n\n## Version v2024.18.0-1.1.5\n\n# RedditFilter v2024.18.0-1.1.5\r\n\r\n## Changes\r\n- Updated Reddit app to 2024.18.0\r\n- Fixed issues when logging in using username and password\r\n- Fixed awards toggle image not appearing\n\n---\n\n## Version v2024.17.0-1.1.4\n\n# RedditFilter v2024.17.0-1.1.4\r\n\r\n## Changes\r\n\r\n- Updated Reddit app to 2024.17.0\r\n- Fix promoted content showing in News and Popular feeds\r\n- Remove version spoof code added in 1.1.2\n\n---\n\n## Version v2024.12.0-1.1.3\n\n# RedditFilter 2024.12.0-1.1.3\r\n\r\n## Changes\r\n- Fix promoted content still showing in comments",
       "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.07.1-1.1.7/RedditFilter_2025.07.1-1.1.7.ipa",
-      "localizedDescription": "iOS App to customize and filter the Reddit Official App experience. Requires the official Reddit app to be installed.\nSource: https://github.com/level3tjg/RedditFilter",
-      "iconURL": "https://raw.githubusercontent.com/level3tjg/RedditFilter/main/RedditFilter/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png",
+      "localizedDescription": "iOS App to customize and filter the Reddit Official App experience.\nSource: https://github.com/level3tjg/RedditFilter",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
       "tintColor": "ff4500",
       "size": 139065345,
       "subtitle": "Filter unwanted content from Reddit.",
-      "screenshotURLs": [],
+      "screenshotURLs": [
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/1.PNG",
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG"
+      ],
       "beta": false
     }
   ],
   "news": [
     {
-      "title": "RedditFilter Repo (Unofficial) Initialized",
-      "identifier": "init-com.unofficial.level3tjg.redditfilter.repo",
-      "caption": "Successfully added the source for RedditFilter.",
-      "date": "2025-04-13T13:52:47.147779Z",
+      "title": "RedditFilter Source Updated",
+      "identifier": "update-com.unofficial.level3tjg.redditfilter.repo-2025-04-13T13:59:46.980360Z",
+      "caption": "Repo refreshed. Latest version: 2025.07.1-1.1.7",
+      "date": "2025-04-13T13:59:46.980360Z",
       "tintColor": "ff4500",
       "notify": false
     }
